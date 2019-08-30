@@ -1,5 +1,5 @@
 module.exports = {
-  base: "/",
+  base: "/resume/",
   dest: 'dist',
   theme: 'resume',
   themeConfig: {
