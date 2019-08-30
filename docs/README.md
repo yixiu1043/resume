@@ -1,16 +1,15 @@
 <h1>
-  <span>姓名</span>
+  <span>越阳</span>
   <ul>
-    <li><span>电话</span>xxx xxxx xxxx</li>
-    <li><span>QQ</span>xxxxxxxxxxxxx</li>
-    <li><span>邮箱</span><a href="mailto:xxxxxxxx@foxmail.com">xxxxxxxx@foxmail.com</a></li>
-    <li><span>Github</span><a>github.com/wannaxiao</a></li>
+    <li><span>电话</span>09770278389</li>
+    <li><span>微信</span>yixiu1043</li>
+    <li><span>邮箱</span><a href="https://mail.google.com" target="_blank">yueyang8389@gmail.com</a></li>
+    <li><span>Github</span><a href="https://github.com/yueyang8389" target="_blank">github.com/yueyang8389</a></li>
   </ul>
 </h1>
 
 ## 教育经历
-硕士 xxxxxxxx大学 软件工程 <span class="right">2014.09 - 2017.06</span><br>
-本科 xxxxxxxxxxxx大学 电子信息工程 <span class="right">2010.09 - 2014.06</span>
+本科 湖北理工学院 电子信息工程 <span class="right">2011.09 - 2015.06</span>
 
 
 ## 工作经历
