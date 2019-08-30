@@ -1,0 +1,17 @@
+{
+  "name": "my-resume",
+  "description": "my resume by vuepress",
+  "author": "yueyang8389 <yueyang8389@gmail.com>",
+  "repository": "git@github.com:yueyang8389/resume.git",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.3",
+    "vuepress-theme-resume": "^0.0.3"
+  }
+}
