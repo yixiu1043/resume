@@ -16,6 +16,6 @@ git init
 git add -A
 git commit -m 'build resume'
 
-git push -f git@github.com:yueyang8389/resume.git master0
+git push -f git@github.com:yueyang8389/resume.git master
 
 cd -
