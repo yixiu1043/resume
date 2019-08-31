@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/',
+  base: '/resume/',
   dest: 'dist',
   title: '越阳的简历',
   description: '越阳的简历',
