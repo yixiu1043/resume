@@ -12,6 +12,5 @@
   },
   "devDependencies": {
     "vuepress": "^1.0.3",
-    "vuepress-theme-resume": "^0.0.3"
   }
 }
