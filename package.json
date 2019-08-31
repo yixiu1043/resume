@@ -5,12 +5,14 @@
   "repository": "git@github.com:yueyang8389/resume.git",
   "license": "MIT",
   "private": false,
+  "main": "Layout.vue",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "deploy": "bash deploy.sh"
   },
   "devDependencies": {
-    "vuepress": "^1.0.3"
+    "vuepress": "^0.10.0",
+    "vuepress-theme-resume": "^0.0.3"
   }
 }
