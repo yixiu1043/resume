@@ -1,7 +1,7 @@
 module.exports = {
   base: '/',
   dest: 'dist',
-  title: 'Yueyang resume',
+  title: '越阳的简历',
   description: '越阳的简历',
   theme: 'resume',
   themeConfig: {

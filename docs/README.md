@@ -4,6 +4,7 @@
     <li><span>电话</span>09770278389</li>
     <li><span>微信</span>yixiu1043</li>
     <li><span>邮箱</span><a href="https://mail.google.com" target="_blank">yueyang8389@gmail.com</a></li>
+    <li><span>博客</span><a href="https://yixiu1043.top" target="_blank">Yixiu Blog</a></li>
     <li><span>Github</span><a href="https://github.com/yueyang8389" target="_blank">github.com/yueyang8389</a></li>
   </ul>
 </h1>
@@ -19,7 +20,7 @@ TG集团(菲)-技术部门 web前端岗位<span class="right">2018.05 - 至今</
 
 ## 项目经验
 ### 聊天室<span class="role">:&nbsp;项目负责人</span><span class="right">2019.04 - 至今</span>
-* 技术栈：**vue+mint-ui+rong-cloud-SDK+axios+vuex+vue-router+sass+webpack+vue-cli+yaml+node**
+* 技术栈：**vue+mint-ui+rongcloudSDK+axios+vuex+vue-router+sass+webpack+vue-cli**
 * 使用融云SDK实现socket通信。
 * 使用yaml来mock一些数据。
 * 使用axios完成数据请求，二次封装完成整体请求的拦截。
@@ -30,11 +31,13 @@ TG集团(菲)-技术部门 web前端岗位<span class="right">2018.05 - 至今</
 ---
 
 ### 视频播放<span class="role">:&nbsp;核心开发者</span><span class="right">2019.01 - 2019.04</span>
-* 技术栈：**react-native+react-native-element+**
-* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+* 技术栈：**react-native+react-native-elements+fetch+react-redux**
+* 使用`Video`组件实现流媒体的播放。
+* 使用`ActivityIndicator`组件封装`Loading`组件。
+* 使用`react-native-root-toast`封装的Toast组件。
+* 使用`react-native-storage`实现本地存储。
+* 使用`fetch`封装GET和POST方法实现数据请求。
+* 使用`react-navigation`实现页面的Tab栏和页面Header的配置。
 
 ---
 
@@ -49,20 +52,30 @@ TG集团(菲)-技术部门 web前端岗位<span class="right">2018.05 - 至今</
 
 ---
 
-### 项目四名称<span class="role">:&nbsp;项目维护</span><span class="right">2017.05 - 2018.03</span>
-* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+<!-- ### 在线商城<span class="role">:&nbsp;项目维护</span><span class="right">2017.05 - 2018.03</span>
+* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。 -->
 
 
 ## 技能描述
-* 了解 XXXXXXXXXXXXXXXXXXX，**掌握 XXXXXXXXXXXXX**
-* 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-* 了解 XXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-* 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-* 掌握 XXXXXXXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-* XXXXXXXXXXXXXXXXXXXX，XXXXXXXXXXXXX
+* 熟练掌握html5和css3新特性完成⻚面的编写。
+* 熟练掌握es6各种语法糖。
+* 熟悉浏览器渲染机制和js的执⾏机制宏任务微任务。
+* 熟练掌握vue、react、react-native技术栈。
+* 熟练掌握markdown语法进行文档的编写。
+* 熟练掌握webpack及周边的插件。
+* 熟练掌握yaml语言。
+* 熟练掌握gulp自动化工具。
+* 熟练掌握VSCode前端插件圈。
+* 熟练掌握git代码分支管理工具。
+* 熟练掌握less、sass、postcss。
+* 熟练掌握eslint、stylelint代码规范管理工具。
+* 熟悉canvas的使用。
+* 熟悉移动端适配案例。
+* 熟悉node作为中间层的开发。
+* 了解typescript、angular、flutter。
 
 ## 自我评价
-* XXXXXXXXXXXXXXXXXXXXXXXXXXX,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+* 夫唯不争，故天下莫能与之争
+* 热爱生活，热爱编程，热爱音乐，喜欢分享
