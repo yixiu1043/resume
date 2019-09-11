@@ -53,7 +53,7 @@ TG集团(菲)-技术部门 web前端岗位<span class="right">2018.05 - 至今</
 ---
 
 ### 后台管理系统<span class="role">:&nbsp;核心开发者</span><span class="right">2017.8 - 2018.03</span>
-* 技术栈：**antd+umi+dav+less+webpack**
+* 技术栈：**antd+react+umi+dav+less+webpack**
 * 使用umi的约定式路由实现页面跳转
 * 使用dav实现全局状态管理
 * 使用umi内置功能实现code splitting
