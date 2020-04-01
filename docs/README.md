@@ -1,7 +1,7 @@
 <h1>
-  <span>越阳</span>
+  <span>一修</span>
   <ul>
-    <li><span>电话</span>09770278389</li>
+    <li><span>电话</span>09995249778</li>
     <li><span>微信</span>yixiu1043</li>
     <li><span>邮箱</span><a href="https://mail.google.com" target="_blank">yueyang8389@gmail.com</a></li>
     <li><span>博客</span><a href="https://yixiu1043.top" target="_blank">Yixiu Blog</a></li>
@@ -14,19 +14,45 @@
 
 
 ## 工作经历
-TG集团(菲)-技术部门 web前端岗位<span class="right">2018.05 - 至今</span><br>
-深圳品格科技有限公司-技术部门 web前端岗位<span class="right">2015.09 - 2018.02</span>
+- AG集团(菲)-技术部门 web前端岗位 <span class="right">2019.05 - 至今</span><br>
+- TG集团(菲)-技术部门 web前端岗位 <span class="right">2018.05 - 2019.05</span><br>
+- 深圳品格科技-技术部门 web前端岗位 <span class="right">2015.09 - 2018.02</span><br>
+
 <!-- * 获得荣誉：**xxxxxxxxxxxxxxxxxxxxxx** -->
 
 ## 项目经验
-### 聊天室<span class="role">:&nbsp;项目负责人</span><span class="right">2019.04 - 至今</span>
-* 技术栈：**vue+mint-ui+rongcloudSDK+axios+vuex+vue-router+sass+webpack+vue-cli**
-* 使用融云SDK实现socket通信。
-* 使用yaml来mock一些数据。
-* 使用axios完成数据请求，二次封装完成整体请求的拦截。
-* 使用sass宏，编写一些加前缀的函数，完成浏览器兼容。
-* 使用node作为中间层，配合`.env`文件取一些涉及项目安全的配置数据。
-* 使用`@media screen`，配合sass编写px2rem函数，适配不同移动设备。
+### cms网站内容管理系统<span class="role">:&nbsp;独立开发</span><span class="right">2020.03 - 至今</span>
+* 技术栈：**egg+umi-antd+mongodb**
+* 使用egg编写后台接口。
+* 使用mongodb存储数据。
+* 使用antd构建前端界面。
+* 使用axios完成数据请求。
+
+---
+
+### 游戏操盘系统<span class="role">:&nbsp;独立开发</span><span class="right">2020.12 - 2020.03</span>
+* 技术栈：**egg+umi-antd**
+* 使用egg编写后台接口。
+* 使用TCP协议开发socket。
+* 使用antd构建前端界面。
+* 使用fetch完成数据请求。
+
+---
+
+### 落地页<span class="role">:&nbsp;独立开发</span><span class="right">2019.09 - 2019.12</span>
+* 技术栈：**expres+umi-antd**
+* 使用express+vhost+rewrite部署多个域名。
+* 使用umi进行多入口页面开发。
+* 使用antd构建前端界面。
+* 使用axios完成数据请求。
+
+---
+
+### 数据管理系统<span class="role">:&nbsp;独立开发</span><span class="right">2019.05 - 2019.8</span>
+* 技术栈：**egg+umi-antd**
+* 使用egg编写后台接口。
+* 使用antd构建前端界面。
+* 使用fetch完成数据请求。
 
 ---
 
@@ -62,22 +88,22 @@ TG集团(菲)-技术部门 web前端岗位<span class="right">2018.05 - 至今</
 
 
 ## 技能描述
-* 熟练掌握html5和css3新特性完成⻚面的编写。
-* 熟练掌握es6各种语法糖。
-* 熟悉浏览器渲染机制和js的执⾏机制宏任务微任务。
 * 熟练掌握vue、react、react-native技术栈。
-* 熟练掌握markdown语法进行文档的编写。
-* 熟练掌握webpack及周边的插件。
-* 熟练掌握yaml语言。
-* 熟练掌握gulp自动化工具。
-* 熟练掌握VSCode前端插件圈。
-* 熟练掌握git代码分支管理工具。
+* 熟练掌握http、tcp协议。
+* 熟练掌握egg+umi+dva+antd技术栈。
+* 熟练掌握markdown、yaml语言。
+* 熟练掌握webpack、gulp自动化工具。
+* 熟练掌握vscode、webstorm编辑器。
+* 熟练掌握git、svn代码管理工具。
 * 熟练掌握less、sass、postcss。
 * 熟练掌握eslint、stylelint代码规范管理工具。
+* 熟练使用node.js进行开发。
+* 熟悉pm2进行部署。
+* 熟悉typescript语法。
+* 熟悉pixi.js、hilo.js。
 * 熟悉canvas的使用。
 * 熟悉移动端适配案例。
-* 熟悉node作为中间层的开发。
-* 了解typescript、angular、flutter。
+* 了解angular、flutter。
 
 ## 自我评价
 * 夫唯不争，故天下莫能与之争
