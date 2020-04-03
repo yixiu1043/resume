@@ -67,7 +67,7 @@
 
 ---
 
-### 后台管理系统<span class="role">:&nbsp;项目负责人</span><span class="right">2018.05 - 2018.12</span>
+### 后台管理系统<span class="role">:&nbsp;核心开发者</span><span class="right">2018.05 - 2018.12</span>
 * 技术栈：**vue+iview+axios+vuex+vue-router+less+webpack+vue-cli**
 * 使⽤`keep-alive`组件实现页⾯级别的缓存。
 * 使用axios拦截器，来完成自动化的token验证和全局提示。
