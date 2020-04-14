@@ -48,18 +48,7 @@
 
 ---
 
-### 视频播放<span class="role">:&nbsp;核心开发者/维护者</span><span class="right">2019.03 - 2019.08</span>
-* 技术栈：**react-native+react-native-elements+fetch+react-redux**
-* 使用`Video`组件实现流媒体的播放。
-* 使用`ActivityIndicator`组件封装`Loading`组件。
-* 使用`react-native-root-toast`封装的Toast组件。
-* 使用`react-native-storage`实现本地存储。
-* 使用`fetch`封装GET和POST方法实现数据请求。
-* 使用`react-navigation`实现页面的Tab栏和页面Header的配置。
-
----
-
-### 聊天室<span class="role">:&nbsp;核心开发者/维护者</span><span class="right">2018.05 - 2019.01</span>
+### 聊天室<span class="role">:&nbsp;核心开发者/维护者</span><span class="right">2019.03 - 2019.08</span>
 * 技术栈：vue+mint-ui+rongcloudSDK+axios+vuex+vue-router+sass+webpack+vue-cli
 * 使用融云SDK实现socket通信。
 * 使用yaml来mock一些数据。
@@ -67,6 +56,17 @@
 * 使用sass宏，编写一些加前缀的函数，完成浏览器兼容。
 * 使用node作为中间层，配合.env文件取一些涉及项目安全的配置数据。
 * 使用@media screen，配合sass编写px2rem函数，适配不同移动设备。
+
+---
+
+### 视频播放<span class="role">:&nbsp;核心开发者/维护者</span><span class="right">2018.05 - 2019.01</span>
+* 技术栈：**react-native+react-native-elements+fetch+react-redux**
+* 使用`Video`组件实现流媒体的播放。
+* 使用`ActivityIndicator`组件封装`Loading`组件。
+* 使用`react-native-root-toast`封装的Toast组件。
+* 使用`react-native-storage`实现本地存储。
+* 使用`fetch`封装GET和POST方法实现数据请求。
+* 使用`react-navigation`实现页面的Tab栏和页面Header的配置。
 
 ---
 
