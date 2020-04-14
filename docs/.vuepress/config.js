@@ -1,8 +1,8 @@
 module.exports = {
   base: '/resume/',
   dest: 'dist',
-  title: '一修的简历',
-  description: '一修的简历',
+  title: '越阳的简历',
+  description: '越阳的简历',
   theme: 'resume',
   themeConfig: {
     sidebar: [
