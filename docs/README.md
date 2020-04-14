@@ -1,5 +1,5 @@
 <h1>
-  <span>一修</span>
+  <span>越阳</span>
   <ul>
     <li><span>电话</span>09995249778</li>
     <li><span>微信</span>yixiu1043</li>
@@ -48,7 +48,7 @@
 
 ---
 
-### 聊天室<span class="role">:&nbsp;核心开发者/维护者</span><span class="right">2019.03 - 2019.08</span>
+### 聊天室<span class="role">:&nbsp;独立开发者/维护者</span><span class="right">2019.04 - 2019.08</span>
 * 技术栈：vue+mint-ui+rongcloudSDK+axios+vuex+vue-router+sass+webpack+vue-cli
 * 使用融云SDK实现socket通信。
 * 使用yaml来mock一些数据。
@@ -59,7 +59,7 @@
 
 ---
 
-### 视频播放<span class="role">:&nbsp;核心开发者/维护者</span><span class="right">2018.05 - 2019.01</span>
+### 视频播放<span class="role">:&nbsp;核心开发者/维护者</span><span class="right">2019.01 - 2019.04</span>
 * 技术栈：**react-native+react-native-elements+fetch+react-redux**
 * 使用`Video`组件实现流媒体的播放。
 * 使用`ActivityIndicator`组件封装`Loading`组件。
@@ -67,6 +67,17 @@
 * 使用`react-native-storage`实现本地存储。
 * 使用`fetch`封装GET和POST方法实现数据请求。
 * 使用`react-navigation`实现页面的Tab栏和页面Header的配置。
+
+---
+
+### 后台管理系统<span class="role">:&nbsp;独立开发者/维护者</span><span class="right">2018.05 - 2018.12</span>
+* 技术栈：**vue+iview+axios+vuex+vue-router+less+webpack+vue-cli**
+* 使⽤keep-alive组件实现页⾯级别的缓存。
+* 使用axios拦截器，来完成自动化的token验证和全局提示。
+* 使用VSCode的Eslint插件，配合项目的eslint配置进行JS代码的规范化管理。
+* 使用VSCode的Stylelint插件，配合项目的stylelint配置进行CSS代码的规范化管理。
+* 使用babel-polyfill、es6-string-polyfills等转es6语法的库实现向下兼容。
+* 使用webpack的缓存机制结合parallel-uglify-plugin插件来提高构建和打包速度。
 
 ---
 
