@@ -4,7 +4,7 @@
     <li><span>电话</span>09995249778</li>
     <li><span>微信</span>yixiu1043</li>
     <li><span>邮箱</span><a href="https://mail.google.com" target="_blank">yueyang8389@gmail.com</a></li>
-    <li><span>博客</span><a href="https://yixiu1043.top" target="_blank">Yixiu Blog</a></li>
+    <li><span>博客</span><a href="https://yixiu1043.top/blog" target="_blank">Yixiu Blog</a></li>
     <li><span>Github</span><a href="https://github.com/yueyang8389" target="_blank">github.com/yueyang8389</a></li>
   </ul>
 </h1>
