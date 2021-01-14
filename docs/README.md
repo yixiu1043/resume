@@ -1,11 +1,11 @@
 <h1>
-  <span>越阳</span>
+  <span>一修</span>
   <ul>
     <li><span>电话</span>09995249778</li>
     <li><span>微信</span>yixiu1043</li>
-    <li><span>邮箱</span><a href="https://mail.google.com" target="_blank">yueyang8389@gmail.com</a></li>
-    <li><span>博客</span><a href="https://yixiu1043.top/blog" target="_blank">Yixiu Blog</a></li>
-    <li><span>Github</span><a href="https://github.com/yueyang8389" target="_blank">github.com/yueyang8389</a></li>
+    <li><span>邮箱</span><a href="https://mail.google.com" target="_blank">yixiu1043@gmail.com</a></li>
+    <li><span>博客</span><a href="https://yixiu1043.github.io/resume/" target="_blank">Yixiu Blog</a></li>
+    <li><span>Github</span><a href="https://github.com/yixiu1043" target="_blank">github.com/yueyang8389</a></li>
   </ul>
 </h1>
 
@@ -14,14 +14,24 @@
 
 
 ## 工作经历
-- CMT集团(菲)-技术部门 web前端岗位 <span class="right">2019.09 - 至今</span><br>
+- AG集团-总部(菲)-技术部门 web前端岗位 <span class="right">2020.04 - 至今</span><br>
+- AG集团-投资办(菲)-技术部门 web前端岗位 <span class="right">2019.09 - 2020.04</span><br>
 - TG集团(菲)-技术部门 web前端岗位 <span class="right">2018.05 - 2019.08</span><br>
 - 深圳品格科技-技术部门 web前端岗位 <span class="right">2015.09 - 2018.02</span><br>
 
 <!-- * 获得荣誉：**xxxxxxxxxxxxxxxxxxxxxx** -->
 
 ## 项目经验
-### 官网cms内容管理系统<span class="role">:&nbsp;独立开发者/维护者</span><span class="right">2020.03 - 至今</span>
+### 官网<span class="role">:&nbsp;维护者</span><span class="right">2020.04 - 至今</span>
+* 技术栈：**vue+vue-router+vux+axios**
+* 使用egg编写后台接口。
+* 使用mongodb存储数据。
+* 使用antd构建前端界面。
+* 使用axios完成数据请求。
+
+---
+
+### 官网cms内容管理系统<span class="role">:&nbsp;独立开发者/维护者</span><span class="right">2020.02 - 2020.04</span>
 * 技术栈：**react+egg+umi+dva+antd+axios+mongodb**
 * 使用egg编写后台接口。
 * 使用mongodb存储数据。
@@ -30,12 +40,21 @@
 
 ---
 
-### 游戏操盘系统<span class="role">:&nbsp;独立开发者/维护者</span><span class="right">2020.12 - 2020.03</span>
+### 游戏操盘系统<span class="role">:&nbsp;独立开发者/维护者</span><span class="right">2019.12 - 2020.03</span>
 * 技术栈：**react+egg+umi+dva+antd+fetch**
 * 使用egg编写后台接口。
 * 使用TCP协议开发socket。
 * 使用antd构建前端界面。
 * 使用fetch完成数据请求。
+
+---
+
+### 官网<span class="role">:&nbsp;维护者</span><span class="right">2020.09 - 2019.12</span>
+* 技术栈：**react+egg+umi+dva+antd+axios+mongodb**
+* 使用egg编写后台接口。
+* 使用mongodb存储数据。
+* 使用antd构建前端界面。
+* 使用axios完成数据请求。
 
 ---
 
@@ -117,9 +136,9 @@
 * 熟悉node.js开发。
 * 熟悉pm2、jenkins部署流程。
 * 熟悉typescript语法。
-* 熟悉pixi.js、hilo.js。
 * 熟悉canvas的使用。
 * 熟悉移动端适配案例。
+* 了解pixi.js、hilo.js、egret白鹭引擎。
 * 了解angular、flutter。
 
 ## 自我评价
