@@ -10,7 +10,7 @@
 </h1>
 
 ## 教育经历
-武汉城市职业学院 <span class="right">2011.09 - 2014.06</span>
+本科 湖北理工学院 电子信息工程 <span class="right">2011.09 - 2015.06</span>
 
 
 ## 工作经历
@@ -23,10 +23,11 @@
 
 ## 项目经验
 ### 官网<span class="role">:&nbsp;维护者</span><span class="right">2020.04 - 至今</span>
-* 技术栈：**vue+vue-router+vux+axios**
-* 使用egg编写后台接口。
-* 使用mongodb存储数据。
-* 使用antd构建前端界面。
+* 技术栈：**vue+vue-router+vuex+axios+less+webpack+vue-cli**
+* 使用vue-router完成路由导航。
+* 使用date-fns处理时间。
+* 使用countup完成倒计时。
+* 使用particle完成动画效果。
 * 使用axios完成数据请求。
 
 ---

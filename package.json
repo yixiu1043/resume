@@ -1,8 +1,8 @@
 {
   "name": "my-resume",
   "description": "my resume by vuepress",
-  "author": "yueyang8389 <yueyang8389@gmail.com>",
-  "repository": "git@github.com:yueyang8389/resume.git",
+  "author": "yixiu1043 <yixiu1043@gmail.com>",
+  "repository": "git@github.com:yixiu1043/resume.git",
   "license": "MIT",
   "private": false,
   "main": "Layout.vue",
