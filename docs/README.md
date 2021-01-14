@@ -5,7 +5,7 @@
     <li><span>微信</span>yixiu1043</li>
     <li><span>邮箱</span><a href="https://mail.google.com" target="_blank">yixiu1043@gmail.com</a></li>
     <li><span>博客</span><a href="https://yixiu1043.github.io/resume/" target="_blank">Yixiu Blog</a></li>
-    <li><span>Github</span><a href="https://github.com/yixiu1043" target="_blank">github.com/yueyang8389</a></li>
+    <li><span>Github</span><a href="https://github.com/yixiu1043" target="_blank">github.com/yixiu1043</a></li>
   </ul>
 </h1>
 
